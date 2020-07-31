@@ -17909,6 +17909,15 @@
 	dir = 1
 	},
 /area/lv624/ground/jungle9)
+"gMQ" = (
+/obj/structure/fence,
+/obj/machinery/door/poddoor/timed_late/containment/landing_zone{
+	dir = 1
+	},
+/turf/open/floor/plating/ground/dirtgrassborder{
+	dir = 1
+	},
+/area/lv624/lazarus/quartstorage/outdoors)
 "gOx" = (
 /obj/machinery/vending/tool,
 /turf/open/floor/tile/dark/brown2{
@@ -18290,6 +18299,9 @@
 /turf/open/floor/plating/ground/dirt,
 /area/lv624/ground/caves/east1)
 "lYR" = (
+/obj/machinery/door/poddoor/timed_late/containment/landing_zone{
+	dir = 1
+	},
 /turf/closed/wall/r_wall,
 /area/lv624/lazarus/quartstorage/outdoors)
 "mbU" = (
@@ -46189,7 +46201,7 @@ azK
 aAk
 aAk
 aAk
-aHs
+gMQ
 aSB
 aTr
 aTR
