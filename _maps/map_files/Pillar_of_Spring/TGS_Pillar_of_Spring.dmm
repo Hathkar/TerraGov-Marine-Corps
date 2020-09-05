@@ -2579,6 +2579,10 @@
 /obj/effect/decal/siding,
 /turf/open/floor/mainship/terragov/east,
 /area/space)
+"js" = (
+/obj/machinery/vending/uniform_supply,
+/turf/open/floor/mainship,
+/area/mainship/living/cafeteria_starboard)
 "jt" = (
 /obj/machinery/marine_selector/gear/engi,
 /turf/open/floor/mainship,
@@ -49229,7 +49233,7 @@ Bs
 jl
 XQ
 jl
-pQ
+js
 qd
 qd
 pQ
